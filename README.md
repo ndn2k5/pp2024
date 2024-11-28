@@ -9,7 +9,7 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Nguyễn Duy Ngọc
+* Student Name: Nguyen Duy Ngoc
 * Student ID: 23BI14342
 
 How to USE git commands
@@ -22,4 +22,4 @@ How to USE git commands
 * git push origin main
 * to delete files, run del file and git add -u, commit and push
 * **run** git pull when startup vscode
-* to rename file only run git mv oldfile newfile
+* to rename file only run git mv oldfile newfilet
