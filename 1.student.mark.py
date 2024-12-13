@@ -34,7 +34,7 @@ def list_student():
     print("\nList of students: ")
     for student in student_list:
         print(f"ID: {student['id']}, Name: {student['name']}, DOB: {student['dob']}")
-#Ham liet ke danh sach khoa hoc
+#Ham liet ke danh sach khoa hoc gg
 def list_course():
     print("\nList of courses: ")
     for course in course_list:
