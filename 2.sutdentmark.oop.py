@@ -1,7 +1,7 @@
 student_list = []
 course_list = []
 marks_data = []
-#Nhap thong tin sinh vien
+#Nhap thong tin sinh vien ddddit add 
 def input_student_info():
     num_student = int(input("Enter number of students: "))
     for i in range(num_student):
