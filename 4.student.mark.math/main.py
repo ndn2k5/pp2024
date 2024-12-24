@@ -61,3 +61,4 @@ class School:
 if __name__ == "__main__":
     school = School()
     curses.wrapper(school.main)
+    
